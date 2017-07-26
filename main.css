@@ -1,0 +1,295 @@
+body, button, input, label, select, td, textarea {
+  font-family: Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    
+}
+body{
+        line-height: 1.34;
+     background-color:#e9ebee;
+    
+}
+@media (min-width: 768px) {
+  .container {
+    width: 750px;
+  }
+}
+@media (min-width: 992px) {
+  .container {
+    width: 970px;
+  }
+}
+@media (min-width: 1200px) {
+  .container {
+    width: 1170px;
+  }
+}
+/* Add Custom CSS Below this line */
+#wrapper {
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+#main,
+#menu,
+#sidebar {
+height: 700px;
+  background-color:;
+    color:black;
+    
+}
+hr { 
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+}
+iframe{
+    padding:11px 11px 11px 11px;
+}
+
+.panel-body .glyphicon {
+    margin-left: 10px;
+    margin-right: 4px;
+}
+#main::-webkit-scrollbar {
+    display:  ;
+}
+.text-post {
+    margin-bottom: 15px;
+    margin-top: 0;
+}
+.image-post {
+    margin-bottom: 15px;
+}
+.list-heading {
+    padding: 20px 15px 0 15px;
+    font-size: 12px;
+}
+
+#header ul .glyphicon {
+    font-size: 15x;
+}
+.white-text {
+  color: white !important;
+}
+
+header {
+  background-color: #4267b2;
+  height: 20px;
+    width:inherit;
+     margin-bottom: 10px;
+}
+footer {
+  background-color:;
+  height: 37px;
+     width:inherit;
+    margin-top:10px;
+}
+#header {
+    background-color: #4267b2;
+    color: white;
+}
+input{
+    height=24.99px; 
+    width=392.78px;
+}
+a{
+    font-size:
+}
+.navbar-brand white-text
+{
+    padding-bottom:20px;
+}
+.form-control{
+    height:22.99px;
+    width:392.78px;
+   
+    
+}
+.glyphicon glyphicon-search{
+    width:
+}
+#menu{
+    font-size: 11px;
+    color:black;
+    padding-top:28px;  
+}
+#sidebar{
+    padding-top:28px;
+}
+#main{
+    padding-top:28px;
+}
+.panel-heading{
+    height: 56px;
+    background-color: white !important;
+}
+.navbar-left{
+    margin-top: 15px;
+    margin-left: 0px;
+        
+}
+.navbar-stacked{
+    color:black !important;
+}
+.navbar-brand{
+    padding-left: 75px;
+    font-size:14px;
+    margin-left:70px;
+    
+}
+button{
+    height:22.98px;
+    
+}
+.glyphicon glyphicon-user{
+    font-size:14px;
+    
+}
+a{
+        color: #365899;
+    cursor: pointer;
+}
+.navbar-left{
+   font-size: 12px; 
+}
+
+#pagelet_trending_tags_and_topics{
+background-color:
+rgb(255, 255, 255)
+;
+border-bottom-color:
+rgba(0, 0, 0, 0)
+;
+border-bottom-left-radius:
+3px
+;
+border-bottom-right-radius:
+3px
+;
+border-bottom-style:
+solid
+;
+border-bottom-width:
+1px
+;
+border-image-outset:
+0px
+;
+border-image-repeat:
+stretch
+;
+border-image-slice:
+100%
+;
+border-image-source:
+none
+;
+border-image-width:
+1
+;
+border-left-color:
+rgba(0, 0, 0, 0)
+;
+border-left-style:
+solid
+;
+border-left-width:
+0px
+;
+border-right-color:
+rgba(0, 0, 0, 0)
+;
+border-right-style:
+solid
+;
+border-right-width:
+0px
+;
+border-top-color:
+rgba(0, 0, 0, 0)
+;
+border-top-left-radius:
+3px
+;
+border-top-right-radius:
+3px
+;
+border-top-style:
+solid
+;
+border-top-width:
+1px
+;
+color:
+rgb(29, 33, 41)
+;
+direction:
+ltr
+;
+display:
+block
+;
+font-family:
+Helvetica, Arial, sans-serif
+;
+font-size:
+12px
+;
+height:
+210px
+;
+line-height:
+16.08px
+;
+padding-bottom:
+12px
+;
+padding-left:
+12px
+;
+padding-right:
+12px
+;
+padding-top:
+12px
+;
+position:
+relative
+;
+width:
+284px
+;
+word-wrap:
+break-word;
+}
+#trending{
+padding-right:12px;
+    padding-right: 30px;
+
+}
+
+#politics{
+    padding-left:10px;
+    
+}
+#scienceandtechnology{
+  padding-left:10px;  
+}
+#sports{
+    padding-left:10px;
+    
+}
+#entertainment{
+    padding-left: 10px;
+}
+.tab-content{
+    padding-top:12px;
+    
+}
+#toptrends1{
+    padding-left:60px;
+}
+
